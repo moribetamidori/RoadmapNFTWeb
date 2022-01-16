@@ -102,5 +102,7 @@ theme: magnetic
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repo: yingruqiu@155.138.203.55:/home/yingruqiu/RoadmapNFTWeb/blog.git
+  branch: master
 
